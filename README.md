@@ -1,5 +1,11 @@
 # Data-Analysis-and-Visualisation
 
+➤[Retail Data Analytics](RetailData_Analytics.ipynb)
+- This dataset provides historical sales data for 45 stores located in different regions - each store contains a number of departments. The company also runs several promotional markdown events throughout the year. These markdowns precede prominent holidays, the four largest of which are the Super Bowl, Labor Day, Thanksgiving, and Christmas. The weeks including these holidays are weighted five times higher in the evaluation than non-holiday weeks.There are 3 csv files – Stores, Features and Sales.
+We are asked to:
+- Predict the department-wide sales for each store for the following year
+- Model the effects of markdowns on holiday weeks
+- Provide recommended actions based on the insights drawn, with prioritization placed on largest business impac
 
 ➤[Retail Data Analytics](RetailData_Analytics.ipynb)
 - This dataset provides historical sales data for 45 stores located in different regions - each store contains a number of departments. The company also runs several promotional markdown events throughout the year. These markdowns precede prominent holidays, the four largest of which are the Super Bowl, Labor Day, Thanksgiving, and Christmas. The weeks including these holidays are weighted five times higher in the evaluation than non-holiday weeks.There are 3 csv files – Stores, Features and Sales.
